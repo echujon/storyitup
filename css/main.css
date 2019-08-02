@@ -1,0 +1,17 @@
+body {
+ background: #332f2f;
+}
+
+.title {
+  font-size: 40px;
+  color: #fff;
+}
+
+span.arrow{
+ color: #00ffbc;
+}
+.intro {
+  font-size: 25px;
+  color: #ffff;
+  margin-top: 10px;
+}
